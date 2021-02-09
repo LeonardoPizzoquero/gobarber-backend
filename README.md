@@ -1,16 +1,16 @@
-#GoBarber Backend API
+# GoBarber Backend API
 
 Rocketseat bootcamp project. 
 
 API for barbers appointments.
 
-##Technologies:
+## Technologies:
 
 - [x] Node.js
 - [x] TypeScript
 - [x] Express
 
-##Patterns:
+## Patterns:
 
 - [x] Repository
 - [x] Service
